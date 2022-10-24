@@ -1,0 +1,20 @@
+{
+  "thumb": "https://telegra.ph/file/dffb5fccad8ebd5188ca5.jpg",
+  "namebot": "𝑆𝛵͢𝛥𝑅 𝛣𝛩𝑌",
+  "botNumber": "918078436401@s.whatsapp.net",
+  "owner": ["917561823024@s.whatsapp.net"],
+  "instagram": "https://instagram.com/st4.r_boy?igshid=YmMyMTA2M2Y=",
+  "author": "𝑆𝛵͢𝛥𝑅 𝛣𝛩𝑌",
+  "session": "session",
+  "email": "hellboy756182@gmail.com",
+  "self": false,
+  "limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
+  "packInfo":{
+    "packname": "𝑆𝛵͢𝛥𝑅 𝛣𝛩𝑌",
+    "author": "★彡[ꜱᴛᴀʀ ʙᴏʏ ᴍᴅ]彡★"
+  },
+  "ignore": {
+		"directory": ["umum"]
+	},
+	"timezone": "Asia/Kolkata"
+}
