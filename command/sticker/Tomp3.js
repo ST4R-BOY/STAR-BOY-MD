@@ -1,7 +1,7 @@
 const { toAudio } = require("../../lib/converter");
 module.exports = {
 	name: "tomp3"
-	alias: ["tomp3", "toaudio"],
+	alias: ["mp3", "toaudio"],
 	category: "converter",
 	desc: "convert video to audio!",
 	async handler(m, { conn, isQVideo, isMedia }) {
