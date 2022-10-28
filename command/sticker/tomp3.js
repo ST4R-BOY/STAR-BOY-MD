@@ -1,4 +1,4 @@
-const { toAudio } = require("/lib/converter");
+const { toAudio } = require("../../lib/converter");
 module.exports = {
    name: "mp3",
    alias: ["mp3"],
@@ -14,7 +14,7 @@ module.exports = {
 			await conn.sendMessage(
 				m.from,
 				{ audio: toaud, mimetype: "audio/mpeg" },
-				{ quoted: m, ptt: false, adReply: true }
+				{ quoted: m, ptt: false }
 			);
 		}
 	},
